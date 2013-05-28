@@ -13,9 +13,7 @@ describe ProjectsController do
   end
 
   describe '#destroy' do 
-    it 'should delete the project and keep the repo' do
-      
-    end
+    it 'should delete the project and keep the repo'
   end
 
   describe "POST create" do

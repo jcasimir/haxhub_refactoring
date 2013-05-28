@@ -29,3 +29,5 @@ dump.rdb
 
 # Ignore public assets for precompile
 /public/assets
+
+.DS_Store
